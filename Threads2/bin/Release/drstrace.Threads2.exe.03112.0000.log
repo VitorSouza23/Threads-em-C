@@ -1,0 +1,581 @@
+NtQueryVirtualMemory
+	arg 0: 0xffffffff (type=HANDLE, size=0x4)
+	arg 1: 0x00401110 (type=void *, size=0x4)
+	arg 2: 0x0 (type=int, size=0x4)
+	arg 3: 0x0029fcb8 (type=<struct>*, size=0x4)
+	arg 4: 0x1c (type=unsigned int, size=0x4)
+	arg 5: 0x0029fc94 (type=unsigned int*, size=0x4)
+    succeeded =>
+	arg 3: <NYI> (type=<struct>*, size=0x4)
+	arg 5: 0x0029fc94 => 0x1c (type=unsigned int*, size=0x4)
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+NtQueryVirtualMemory
+	arg 0: 0xffffffff (type=HANDLE, size=0x4)
+	arg 1: 0x00401110 (type=void *, size=0x4)
+	arg 2: 0x3 (type=int, size=0x4)
+	arg 3: 0x0029fcd4 (type=<struct>*, size=0x4)
+	arg 4: 0x14 (type=unsigned int, size=0x4)
+	arg 5: 0x00000000 (type=unsigned int*, size=0x4)
+    succeeded =>
+	arg 3: <NYI> (type=<struct>*, size=0x4)
+	arg 5: 0x00000000 (type=unsigned int*, size=0x4)
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+NtQueryVirtualMemory
+	arg 0: 0xffffffff (type=HANDLE, size=0x4)
+	arg 1: 0x00401110 (type=void *, size=0x4)
+	arg 2: 0x2 (type=int, size=0x4)
+	arg 3: 0x0029fd0c (type=<struct>*, size=0x4)
+	arg 4: 0x212 (type=unsigned int, size=0x4)
+	arg 5: 0x00000000 (type=unsigned int*, size=0x4)
+    succeeded =>
+	arg 3: <NYI> (type=<struct>*, size=0x4)
+	arg 5: 0x00000000 (type=unsigned int*, size=0x4)
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+NtQueryInformationProcess
+	arg 0: 0xffffffff (type=HANDLE, size=0x4)
+	arg 1: 0x24 (type=int, size=0x4)
+	arg 2: 0x0029fce0 (type=<struct>*, size=0x4)
+	arg 3: 0x4 (type=unsigned int, size=0x4)
+	arg 4: 0x00000000 (type=unsigned int*, size=0x4)
+    succeeded =>
+	arg 2: <NYI> (type=<struct>*, size=0x4)
+	arg 4: 0x00000000 (type=unsigned int*, size=0x4)
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+NtQueryInformationProcess
+	arg 0: 0xffffffff (type=HANDLE, size=0x4)
+	arg 1: 0x24 (type=int, size=0x4)
+	arg 2: 0x0029fce0 (type=<struct>*, size=0x4)
+	arg 3: 0x4 (type=unsigned int, size=0x4)
+	arg 4: 0x00000000 (type=unsigned int*, size=0x4)
+    succeeded =>
+	arg 2: <NYI> (type=<struct>*, size=0x4)
+	arg 4: 0x00000000 (type=unsigned int*, size=0x4)
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+NtQueryInformationProcess
+	arg 0: 0xffffffff (type=HANDLE, size=0x4)
+	arg 1: 0x24 (type=int, size=0x4)
+	arg 2: 0x0029fe68 (type=<struct>*, size=0x4)
+	arg 3: 0x4 (type=unsigned int, size=0x4)
+	arg 4: 0x00000000 (type=unsigned int*, size=0x4)
+    succeeded =>
+	arg 2: <NYI> (type=<struct>*, size=0x4)
+	arg 4: 0x00000000 (type=unsigned int*, size=0x4)
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+NtQueryInformationProcess
+	arg 0: 0xffffffff (type=HANDLE, size=0x4)
+	arg 1: 0x24 (type=int, size=0x4)
+	arg 2: 0x0029fe64 (type=<struct>*, size=0x4)
+	arg 3: 0x4 (type=unsigned int, size=0x4)
+	arg 4: 0x00000000 (type=unsigned int*, size=0x4)
+    succeeded =>
+	arg 2: <NYI> (type=<struct>*, size=0x4)
+	arg 4: 0x00000000 (type=unsigned int*, size=0x4)
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+NtQueryInformationProcess
+	arg 0: 0xffffffff (type=HANDLE, size=0x4)
+	arg 1: 0x24 (type=int, size=0x4)
+	arg 2: 0x0029fe68 (type=<struct>*, size=0x4)
+	arg 3: 0x4 (type=unsigned int, size=0x4)
+	arg 4: 0x00000000 (type=unsigned int*, size=0x4)
+    succeeded =>
+	arg 2: <NYI> (type=<struct>*, size=0x4)
+	arg 4: 0x00000000 (type=unsigned int*, size=0x4)
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+NtQueryInformationProcess
+	arg 0: 0xffffffff (type=HANDLE, size=0x4)
+	arg 1: 0x24 (type=int, size=0x4)
+	arg 2: 0x0029fe64 (type=<struct>*, size=0x4)
+	arg 3: 0x4 (type=unsigned int, size=0x4)
+	arg 4: 0x00000000 (type=unsigned int*, size=0x4)
+    succeeded =>
+	arg 2: <NYI> (type=<struct>*, size=0x4)
+	arg 4: 0x00000000 (type=unsigned int*, size=0x4)
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+NtQueryInformationProcess
+	arg 0: 0xffffffff (type=HANDLE, size=0x4)
+	arg 1: 0x24 (type=int, size=0x4)
+	arg 2: 0x0029fe88 (type=<struct>*, size=0x4)
+	arg 3: 0x4 (type=unsigned int, size=0x4)
+	arg 4: 0x00000000 (type=unsigned int*, size=0x4)
+    succeeded =>
+	arg 2: <NYI> (type=<struct>*, size=0x4)
+	arg 4: 0x00000000 (type=unsigned int*, size=0x4)
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+NtQueryInformationProcess
+	arg 0: 0xffffffff (type=HANDLE, size=0x4)
+	arg 1: 0x24 (type=int, size=0x4)
+	arg 2: 0x0029fe84 (type=<struct>*, size=0x4)
+	arg 3: 0x4 (type=unsigned int, size=0x4)
+	arg 4: 0x00000000 (type=unsigned int*, size=0x4)
+    succeeded =>
+	arg 2: <NYI> (type=<struct>*, size=0x4)
+	arg 4: 0x00000000 (type=unsigned int*, size=0x4)
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+NtQueryInformationProcess
+	arg 0: 0xffffffff (type=HANDLE, size=0x4)
+	arg 1: 0x24 (type=int, size=0x4)
+	arg 2: 0x0029fe88 (type=<struct>*, size=0x4)
+	arg 3: 0x4 (type=unsigned int, size=0x4)
+	arg 4: 0x00000000 (type=unsigned int*, size=0x4)
+    succeeded =>
+	arg 2: <NYI> (type=<struct>*, size=0x4)
+	arg 4: 0x00000000 (type=unsigned int*, size=0x4)
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+NtQueryInformationProcess
+	arg 0: 0xffffffff (type=HANDLE, size=0x4)
+	arg 1: 0x24 (type=int, size=0x4)
+	arg 2: 0x0029fe84 (type=<struct>*, size=0x4)
+	arg 3: 0x4 (type=unsigned int, size=0x4)
+	arg 4: 0x00000000 (type=unsigned int*, size=0x4)
+    succeeded =>
+	arg 2: <NYI> (type=<struct>*, size=0x4)
+	arg 4: 0x00000000 (type=unsigned int*, size=0x4)
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+NtCreateThreadEx
+	arg 0: 0x0029fd20 (type=HANDLE*, size=0x4)
+	arg 1: 0x1fffff (type=unsigned int, size=0x4)
+	arg 2: <null> (type=OBJECT_ATTRIBUTES*, size=0x4)
+	arg 3: 0xffffffff (type=HANDLE, size=0x4)
+	arg 4: <NYI> (type=<function>, size=0x4)
+	arg 5: <NYI> (type=<unknown>, size=0x4)
+	arg 6: 0x1 (type=bool, size=0x1)
+	arg 7: 0x0 (type=unsigned int, size=0x4)
+	arg 8: 0x0 (type=unsigned int, size=0x4)
+	arg 9: 0x0 (type=unsigned int, size=0x4)
+	arg 10: <NYI> (type=<unknown>*, size=0x4)
+    succeeded =>
+	arg 0: 0x0029fd20 => 0xa8 (type=HANDLE*, size=0x4)
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+NtResumeThread
+	arg 0: 0xa8 (type=HANDLE, size=0x4)
+	arg 1: 0x0029fec8 (type=unsigned int*, size=0x4)
+    succeeded =>
+	arg 1: 0x0029fec8 => 0x1 (type=unsigned int*, size=0x4)
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+NtCreateThreadEx
+	arg 0: 0x0029fd20 (type=HANDLE*, size=0x4)
+	arg 1: 0x1fffff (type=unsigned int, size=0x4)
+	arg 2: <null> (type=OBJECT_ATTRIBUTES*, size=0x4)
+	arg 3: 0xffffffff (type=HANDLE, size=0x4)
+	arg 4: <NYI> (type=<function>, size=0x4)
+	arg 5: <NYI> (type=<unknown>, size=0x4)
+	arg 6: 0x1 (type=bool, size=0x1)
+	arg 7: 0x0 (type=unsigned int, size=0x4)
+	arg 8: 0x0 (type=unsigned int, size=0x4)
+	arg 9: 0x0 (type=unsigned int, size=0x4)
+	arg 10: <NYI> (type=<unknown>*, size=0x4)
+    succeeded =>
+	arg 0: 0x0029fd20 => 0xcc (type=HANDLE*, size=0x4)
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+NtResumeThread
+	arg 0: 0xcc (type=HANDLE, size=0x4)
+	arg 1: 0x0029fec8 (type=unsigned int*, size=0x4)
+    succeeded =>
+	arg 1: 0x0029fec8 => 0x1 (type=unsigned int*, size=0x4)
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+NtAllocateVirtualMemory
+	arg 0: 0xffffffff (type=HANDLE, size=0x4)
+	arg 1: 0x0029f960 => 0x004d3000 (type=void **, size=0x4)
+	arg 2: 0x0 (type=unsigned int, size=0x4)
+	arg 3: 0x0029f998 => 0x2000 (type=unsigned int*, size=0x4)
+	arg 4: MEM_COMMIT (type=named constant, value=0x1000, size=0x4)
+	arg 5: PAGE_READWRITE (type=named constant, value=0x4, size=0x4)
+    succeeded =>
+	arg 1: 0x0029f960 => 0x004d3000 (type=void **, size=0x4)
+	arg 3: 0x0029f998 => 0x2000 (type=unsigned int*, size=0x4)
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+NtWriteFile
+	arg 0: 0x24 (type=HANDLE, size=0x4)
+	arg 1: 0x0 (type=HANDLE, size=0x4)
+	arg 2: <null> (type=<function>, size=0x4)
+	arg 3: 0x00000000 (type=void, size=0x4)
+	arg 4: 0x0029e050 (type=IO_STATUS_BLOCK*, size=0x4)
+	arg 5: 0x0029e77c => 0x6f500a0d (type=void*, size=0x4)
+	arg 6: 0x10f7 (type=unsigned int, size=0x4)
+	arg 7: <null> (type=LARGE_INTEGER*, size=0x4)
+	arg 8: 0x00000000 (type=unsigned int*, size=0x4)
+    succeeded =>
+	arg 4: status=0x0, info=0x10f7 (type=IO_STATUS_BLOCK*, size=0x4)
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+NtWriteFile
+	arg 0: 0x24 (type=HANDLE, size=0x4)
+	arg 1: 0x0 (type=HANDLE, size=0x4)
+	arg 2: <null> (type=<function>, size=0x4)
+	arg 3: 0x00000000 (type=void, size=0x4)
+	arg 4: 0x0029e050 (type=IO_STATUS_BLOCK*, size=0x4)
+	arg 5: 0x0029e77c => 0x56202d20 (type=void*, size=0x4)
+	arg 6: 0x10f2 (type=unsigned int, size=0x4)
+	arg 7: <null> (type=LARGE_INTEGER*, size=0x4)
+	arg 8: 0x00000000 (type=unsigned int*, size=0x4)
+NtAllocateVirtualMemory
+	arg 0: 0xffffffff (type=HANDLE, size=0x4)
+	arg 1: 0x00d4f780 => 0x00506000 (type=void **, size=0x4)
+	arg 2: 0x0 (type=unsigned int, size=0x4)
+	arg 3: 0x00d4f7b8 => 0x2000 (type=unsigned int*, size=0x4)
+	arg 4: MEM_COMMIT (type=named constant, value=0x1000, size=0x4)
+	arg 5: PAGE_READWRITE (type=named constant, value=0x4, size=0x4)
+    succeeded =>
+	arg 1: 0x00d4f780 => 0x00506000 (type=void **, size=0x4)
+	arg 3: 0x00d4f7b8 => 0x2000 (type=unsigned int*, size=0x4)
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+NtWaitForAlertByThreadId (details not all known)
+	arg 0: <NYI> (type=<unknown>*, size=0x4)
+	arg 1: <null> (type=<unknown>*, size=0x4)
+NtAllocateVirtualMemory
+	arg 0: 0xffffffff (type=HANDLE, size=0x4)
+	arg 1: 0x00d4f770 => 0x00508000 (type=void **, size=0x4)
+	arg 2: 0x0 (type=unsigned int, size=0x4)
+	arg 3: 0x00d4f7a8 => 0x2000 (type=unsigned int*, size=0x4)
+	arg 4: MEM_COMMIT (type=named constant, value=0x1000, size=0x4)
+	arg 5: PAGE_READWRITE (type=named constant, value=0x4, size=0x4)
+    succeeded =>
+	arg 1: 0x00d4f770 => 0x00508000 (type=void **, size=0x4)
+	arg 3: 0x00d4f7a8 => 0x2000 (type=unsigned int*, size=0x4)
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+NtOpenKey
+	arg 0: 0x00d4f900 (type=HANDLE*, size=0x4)
+	arg 1: 0x9 (type=unsigned int, size=0x4)
+	arg 2: len=0x18, root=0x0, name=132/134 "\Registry\Machine\SYSTEM\CurrentControlSet\Control\Session Manager", att=0x40, sd=0x00000000, sqos=0x00000000 (type=OBJECT_ATTRIBUTES*, size=0x4)
+    succeeded =>
+	arg 0: 0x00d4f900 => 0xf4 (type=HANDLE*, size=0x4)
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+NtQueryValueKey
+	arg 0: 0xf4 (type=HANDLE, size=0x4)
+	arg 1: 32/34 "ResourcePolicies" (type=UNICODE_STRING*, size=0x4)
+	arg 2: 0x2 (type=int, size=0x4)
+	arg 3: 0x00d4f904 (type=<struct>*, size=0x4)
+	arg 4: 0x18 (type=unsigned int, size=0x4)
+	arg 5: 0x00d4f8e4 (type=unsigned int*, size=0x4)
+    failed (error=0xc0000034) =>
+	arg 3: <NYI> (type=<struct>*, size=0x4)
+	arg 5: 0x00d4f8e4 => 0x500498 (type=unsigned int*, size=0x4)
+	retval: 0xc0000034 (type=NTSTATUS, size=0x4)
+NtClose
+	arg 0: 0xf4 (type=HANDLE, size=0x4)
+    succeeded =>
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+NtAllocateVirtualMemory
+	arg 0: 0xffffffff (type=HANDLE, size=0x4)
+	arg 1: 0x00d4f98c => 0x00000000 (type=void **, size=0x4)
+	arg 2: 0x0 (type=unsigned int, size=0x4)
+	arg 3: 0x00d4f994 => 0x70d0 (type=unsigned int*, size=0x4)
+	arg 4: MEM_RESERVE (type=named constant, value=0x2000, size=0x4)
+	arg 5: PAGE_READWRITE (type=named constant, value=0x4, size=0x4)
+    succeeded =>
+	arg 1: 0x00d4f98c => 0x002c0000 (type=void **, size=0x4)
+	arg 3: 0x00d4f994 => 0x8000 (type=unsigned int*, size=0x4)
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+NtAllocateVirtualMemory
+	arg 0: 0xffffffff (type=HANDLE, size=0x4)
+	arg 1: 0x00d4f98c => 0x002c0000 (type=void **, size=0x4)
+	arg 2: 0x0 (type=unsigned int, size=0x4)
+	arg 3: 0x00d4f998 => 0x800 (type=unsigned int*, size=0x4)
+	arg 4: MEM_COMMIT (type=named constant, value=0x1000, size=0x4)
+	arg 5: PAGE_READWRITE (type=named constant, value=0x4, size=0x4)
+    succeeded =>
+	arg 1: 0x00d4f98c => 0x002c0000 (type=void **, size=0x4)
+	arg 3: 0x00d4f998 => 0x1000 (type=unsigned int*, size=0x4)
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+NtAlertThreadByThreadId (details not all known)
+	arg 0: <NYI> (type=<unknown>*, size=0x4)
+    succeeded =>
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+    succeeded =>
+	retval: 0x101 (type=NTSTATUS, size=0x4)
+NtWaitForAlertByThreadId (details not all known)
+	arg 0: <NYI> (type=<unknown>*, size=0x4)
+	arg 1: <null> (type=<unknown>*, size=0x4)
+NtAlertThreadByThreadId (details not all known)
+	arg 0: <NYI> (type=<unknown>*, size=0x4)
+    succeeded =>
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+    succeeded =>
+	retval: 0x101 (type=NTSTATUS, size=0x4)
+NtWaitForSingleObject
+	arg 0: 0x34 (type=HANDLE, size=0x4)
+	arg 1: 0x0 (type=bool, size=0x1)
+	arg 2: <null> (type=LARGE_INTEGER*, size=0x4)
+    succeeded =>
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+NtWaitForSingleObject
+	arg 0: 0x34 (type=HANDLE, size=0x4)
+	arg 1: 0x0 (type=bool, size=0x1)
+	arg 2: <null> (type=LARGE_INTEGER*, size=0x4)
+NtDeviceIoControlFile (details not all known)
+	arg 0: 0x40 (type=HANDLE, size=0x4)
+	arg 1: 0x0 (type=HANDLE, size=0x4)
+	arg 2: <null> (type=<function>, size=0x4)
+	arg 3: <null> (type=<unknown>, size=0x4)
+	arg 4: 0x00d4f828 (type=IO_STATUS_BLOCK*, size=0x4)
+	arg 5: 0x500016 (type=unsigned int, size=0x4)
+	arg 6: <NYI> (type=<unknown>*, size=0x4)
+	arg 7: 0x30 (type=unsigned int, size=0x4)
+	arg 8: <null> (type=<struct>*, size=0x4)
+	arg 9: 0x0 (type=unsigned int, size=0x4)
+    failed (error=0xc00000bb) =>
+	arg 4: status=0x2, info=0x0 (type=IO_STATUS_BLOCK*, size=0x4)
+	arg 8: <null> (type=<struct>*, size=0x4)
+	retval: 0xc00000bb (type=NTSTATUS, size=0x4)
+NtSetEvent
+	arg 0: 0x34 (type=HANDLE, size=0x4)
+	arg 1: 0x00000000 (type=unsigned int*, size=0x4)
+    succeeded =>
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+NtDeviceIoControlFile (details not all known)
+	arg 0: 0x40 (type=HANDLE, size=0x4)
+	arg 1: 0x0 (type=HANDLE, size=0x4)
+	arg 2: <null> (type=<function>, size=0x4)
+	arg 3: <null> (type=<unknown>, size=0x4)
+	arg 4: 0x00f4f828 (type=IO_STATUS_BLOCK*, size=0x4)
+	arg 5: 0x500016 (type=unsigned int, size=0x4)
+	arg 6: <NYI> (type=<unknown>*, size=0x4)
+	arg 7: 0x30 (type=unsigned int, size=0x4)
+	arg 8: <null> (type=<struct>*, size=0x4)
+	arg 9: 0x0 (type=unsigned int, size=0x4)
+    succeeded =>
+	arg 1: 0x00000000 (type=unsigned int*, size=0x4)
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+    failed (error=0xc00000bb) =>
+	arg 4: status=0x2, info=0x31 (type=IO_STATUS_BLOCK*, size=0x4)
+	arg 8: <null> (type=<struct>*, size=0x4)
+	retval: 0xc00000bb (type=NTSTATUS, size=0x4)
+NtTestAlert
+    succeeded =>
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+NtSetEvent
+	arg 0: 0x34 (type=HANDLE, size=0x4)
+	arg 1: 0x00000000 (type=unsigned int*, size=0x4)
+    succeeded =>
+	arg 1: 0x00000000 (type=unsigned int*, size=0x4)
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+NtTestAlert
+    succeeded =>
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+NtContinue
+	arg 0: <NYI> (type=CONTEXT*, size=0x4)
+	arg 1: 0x1 (type=bool, size=0x1)
+NtContinue
+	arg 0: <NYI> (type=CONTEXT*, size=0x4)
+	arg 1: 0x1 (type=bool, size=0x1)
+NtWaitForAlertByThreadId (details not all known)
+	arg 0: <NYI> (type=<unknown>*, size=0x4)
+	arg 1: <null> (type=<unknown>*, size=0x4)
+NtAlertThreadByThreadId (details not all known)
+	arg 0: <NYI> (type=<unknown>*, size=0x4)
+    succeeded =>
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+    succeeded =>
+	retval: 0x101 (type=NTSTATUS, size=0x4)
+NtDelayExecution
+	arg 0: 0x0 (type=bool, size=0x1)
+	arg 1: 0xfffffffffffcf2c0 (type=LARGE_INTEGER*, size=0x4)
+NtDelayExecution
+	arg 0: 0x0 (type=bool, size=0x1)
+	arg 1: 0xfffffffffffcf2c0 (type=LARGE_INTEGER*, size=0x4)
+    succeeded =>
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+    succeeded =>
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+NtSetInformationProcess
+	arg 0: 0xffffffff (type=HANDLE, size=0x4)
+	arg 1: 0x47 (type=int, size=0x4)
+	arg 2: 0x00f4ff28 (type=<struct>*, size=0x4)
+	arg 3: 0x4 (type=unsigned int, size=0x4)
+NtSetInformationProcess
+	arg 0: 0xffffffff (type=HANDLE, size=0x4)
+	arg 1: 0x47 (type=int, size=0x4)
+	arg 2: 0x00d4ff28 (type=<struct>*, size=0x4)
+	arg 3: 0x4 (type=unsigned int, size=0x4)
+    succeeded =>
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+    succeeded =>
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+NtClose
+	arg 0: 0xa8 (type=HANDLE, size=0x4)
+NtClose
+	arg 0: 0xcc (type=HANDLE, size=0x4)
+    succeeded =>
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+    succeeded =>
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+NtWaitForAlertByThreadId (details not all known)
+	arg 0: <NYI> (type=<unknown>*, size=0x4)
+	arg 1: <null> (type=<unknown>*, size=0x4)
+NtAlertThreadByThreadId (details not all known)
+	arg 0: <NYI> (type=<unknown>*, size=0x4)
+    succeeded =>
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+    succeeded =>
+	retval: 0x101 (type=NTSTATUS, size=0x4)
+NtQueryInformationThread
+	arg 0: 0xfffffffe (type=HANDLE, size=0x4)
+	arg 1: 0xc (type=int, size=0x4)
+	arg 2: 0x00d4ff2c (type=<struct>*, size=0x4)
+	arg 3: 0x4 (type=unsigned int, size=0x4)
+	arg 4: 0x00000000 (type=unsigned int*, size=0x4)
+NtQueryInformationThread
+	arg 0: 0xfffffffe (type=HANDLE, size=0x4)
+	arg 1: 0xc (type=int, size=0x4)
+	arg 2: 0x00f4ff2c (type=<struct>*, size=0x4)
+	arg 3: 0x4 (type=unsigned int, size=0x4)
+	arg 4: 0x00000000 (type=unsigned int*, size=0x4)
+    succeeded =>
+	arg 2: <NYI> (type=<struct>*, size=0x4)
+	arg 4: 0x00000000 (type=unsigned int*, size=0x4)
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+    succeeded =>
+	arg 2: <NYI> (type=<struct>*, size=0x4)
+	arg 4: 0x00000000 (type=unsigned int*, size=0x4)
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+NtWaitForSingleObject
+	arg 0: 0x34 (type=HANDLE, size=0x4)
+	arg 1: 0x0 (type=bool, size=0x1)
+	arg 2: <null> (type=LARGE_INTEGER*, size=0x4)
+    succeeded =>
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+NtWaitForSingleObject
+	arg 0: 0x34 (type=HANDLE, size=0x4)
+	arg 1: 0x0 (type=bool, size=0x1)
+	arg 2: <null> (type=LARGE_INTEGER*, size=0x4)
+NtSetEvent
+	arg 0: 0x34 (type=HANDLE, size=0x4)
+	arg 1: 0x00000000 (type=unsigned int*, size=0x4)
+    succeeded =>
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+    succeeded =>
+	arg 1: 0x00000000 (type=unsigned int*, size=0x4)
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+NtSetEvent
+	arg 0: 0x34 (type=HANDLE, size=0x4)
+	arg 1: 0x00000000 (type=unsigned int*, size=0x4)
+    succeeded =>
+	arg 1: 0x00000000 (type=unsigned int*, size=0x4)
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+NtWaitForAlertByThreadId (details not all known)
+	arg 0: <NYI> (type=<unknown>*, size=0x4)
+	arg 1: <null> (type=<unknown>*, size=0x4)
+NtAlertThreadByThreadId (details not all known)
+	arg 0: <NYI> (type=<unknown>*, size=0x4)
+    succeeded =>
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+    succeeded =>
+	retval: 0x101 (type=NTSTATUS, size=0x4)
+NtWaitForAlertByThreadId (details not all known)
+	arg 0: <NYI> (type=<unknown>*, size=0x4)
+	arg 1: <null> (type=<unknown>*, size=0x4)
+NtAlertThreadByThreadId (details not all known)
+	arg 0: <NYI> (type=<unknown>*, size=0x4)
+    succeeded =>
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+    succeeded =>
+	retval: 0x101 (type=NTSTATUS, size=0x4)
+NtWaitForAlertByThreadId (details not all known)
+	arg 0: <NYI> (type=<unknown>*, size=0x4)
+	arg 1: <null> (type=<unknown>*, size=0x4)
+NtAlertThreadByThreadId (details not all known)
+	arg 0: <NYI> (type=<unknown>*, size=0x4)
+    succeeded =>
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+    succeeded =>
+	retval: 0x101 (type=NTSTATUS, size=0x4)
+NtTerminateThread
+	arg 0: 0x0 (type=HANDLE, size=0x4)
+	arg 1: 0x0 (type=NTSTATUS, size=0x4)
+NtTerminateThread
+	arg 0: 0x0 (type=HANDLE, size=0x4)
+	arg 1: 0x0 (type=NTSTATUS, size=0x4)
+NtQueryInformationThread
+	arg 0: 0xfffffffe (type=HANDLE, size=0x4)
+	arg 1: 0xc (type=int, size=0x4)
+	arg 2: 0x007ffdd4 (type=<struct>*, size=0x4)
+	arg 3: 0x4 (type=unsigned int, size=0x4)
+	arg 4: 0x00000000 (type=unsigned int*, size=0x4)
+    succeeded =>
+	arg 2: <NYI> (type=<struct>*, size=0x4)
+	arg 4: 0x00000000 (type=unsigned int*, size=0x4)
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+NtTerminateThread
+	arg 0: 0x0 (type=HANDLE, size=0x4)
+	arg 1: 0x0 (type=NTSTATUS, size=0x4)
+NtDeviceIoControlFile (details not all known)
+	arg 0: 0x40 (type=HANDLE, size=0x4)
+	arg 1: 0x0 (type=HANDLE, size=0x4)
+	arg 2: <null> (type=<function>, size=0x4)
+	arg 3: <null> (type=<unknown>, size=0x4)
+	arg 4: 0x007ff828 (type=IO_STATUS_BLOCK*, size=0x4)
+	arg 5: 0x500016 (type=unsigned int, size=0x4)
+	arg 6: <NYI> (type=<unknown>*, size=0x4)
+	arg 7: 0x30 (type=unsigned int, size=0x4)
+	arg 8: <null> (type=<struct>*, size=0x4)
+	arg 9: 0x0 (type=unsigned int, size=0x4)
+    failed (error=0xc00000bb) =>
+	arg 4: status=0x2, info=0x685dd800 (type=IO_STATUS_BLOCK*, size=0x4)
+	arg 8: <null> (type=<struct>*, size=0x4)
+	retval: 0xc00000bb (type=NTSTATUS, size=0x4)
+NtAllocateVirtualMemory
+	arg 0: 0xffffffff (type=HANDLE, size=0x4)
+	arg 1: 0x007ff700 => 0x004d5000 (type=void **, size=0x4)
+	arg 2: 0x0 (type=unsigned int, size=0x4)
+	arg 3: 0x007ff738 => 0x2000 (type=unsigned int*, size=0x4)
+	arg 4: MEM_COMMIT (type=named constant, value=0x1000, size=0x4)
+	arg 5: PAGE_READWRITE (type=named constant, value=0x4, size=0x4)
+    succeeded =>
+	arg 1: 0x007ff700 => 0x004d5000 (type=void **, size=0x4)
+	arg 3: 0x007ff738 => 0x2000 (type=unsigned int*, size=0x4)
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+NtOpenKey
+	arg 0: 0x007ff890 (type=HANDLE*, size=0x4)
+	arg 1: 0x9 (type=unsigned int, size=0x4)
+	arg 2: len=0x18, root=0x0, name=132/134 "\Registry\Machine\SYSTEM\CurrentControlSet\Control\Session Manager", att=0x40, sd=0x00000000, sqos=0x00000000 (type=OBJECT_ATTRIBUTES*, size=0x4)
+    succeeded =>
+	arg 0: 0x007ff890 => 0xcc (type=HANDLE*, size=0x4)
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+NtQueryValueKey
+	arg 0: 0xcc (type=HANDLE, size=0x4)
+	arg 1: 32/34 "ResourcePolicies" (type=UNICODE_STRING*, size=0x4)
+	arg 2: 0x2 (type=int, size=0x4)
+	arg 3: 0x007ff894 (type=<struct>*, size=0x4)
+	arg 4: 0x18 (type=unsigned int, size=0x4)
+	arg 5: 0x007ff874 (type=unsigned int*, size=0x4)
+    failed (error=0xc0000034) =>
+	arg 3: <NYI> (type=<struct>*, size=0x4)
+	arg 5: 0x007ff874 => 0x4d0d20 (type=unsigned int*, size=0x4)
+	retval: 0xc0000034 (type=NTSTATUS, size=0x4)
+NtClose
+	arg 0: 0xcc (type=HANDLE, size=0x4)
+    succeeded =>
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+NtAllocateVirtualMemory
+	arg 0: 0xffffffff (type=HANDLE, size=0x4)
+	arg 1: 0x007ff91c => 0x00000000 (type=void **, size=0x4)
+	arg 2: 0x0 (type=unsigned int, size=0x4)
+	arg 3: 0x007ff924 => 0x70d0 (type=unsigned int*, size=0x4)
+	arg 4: MEM_RESERVE (type=named constant, value=0x2000, size=0x4)
+	arg 5: PAGE_READWRITE (type=named constant, value=0x4, size=0x4)
+    succeeded =>
+	arg 1: 0x007ff91c => 0x003d0000 (type=void **, size=0x4)
+	arg 3: 0x007ff924 => 0x8000 (type=unsigned int*, size=0x4)
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+NtAllocateVirtualMemory
+	arg 0: 0xffffffff (type=HANDLE, size=0x4)
+	arg 1: 0x007ff91c => 0x003d0000 (type=void **, size=0x4)
+	arg 2: 0x0 (type=unsigned int, size=0x4)
+	arg 3: 0x007ff928 => 0x800 (type=unsigned int*, size=0x4)
+	arg 4: MEM_COMMIT (type=named constant, value=0x1000, size=0x4)
+	arg 5: PAGE_READWRITE (type=named constant, value=0x4, size=0x4)
+    succeeded =>
+	arg 1: 0x007ff91c => 0x003d0000 (type=void **, size=0x4)
+	arg 3: 0x007ff928 => 0x1000 (type=unsigned int*, size=0x4)
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+NtSetEvent
+	arg 0: 0x34 (type=HANDLE, size=0x4)
+	arg 1: 0x00000000 (type=unsigned int*, size=0x4)
+    succeeded =>
+	arg 1: 0x00000000 (type=unsigned int*, size=0x4)
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+NtTestAlert
+    succeeded =>
+	retval: 0x0 (type=NTSTATUS, size=0x4)
+NtContinue
+	arg 0: <NYI> (type=CONTEXT*, size=0x4)
+	arg 1: 0x1 (type=bool, size=0x1)
